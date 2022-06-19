@@ -15,7 +15,26 @@ Using various visualizations on Tableau worksheets, an analysis of the graphical
 
 ![MOD 14 DASHBOARD NYC CITI BIKE](https://user-images.githubusercontent.com/99851509/174454477-58ae70a1-7b00-4fdf-8f91-730ffbbca30b.png)
 
-
 ## Results of Each Visualization
+https://public.tableau.com/app/profile/takemi.oshiro/viz/CITIBIKEPROPOSALNYCtoDESMOINES/CITIBIKEPROPOSALFORDESMOINES
+### CHECKOUT TIMES FOR USERS: 
+This line graph visualization shows the length of time that bikes are checked out for all riders.
+
+### CHECKOUT TIMES BY GENDER:
+This visualization is multi-line graph that shows the length of time bikes are checked out broken down by gender-type.
+
+### NUMBER OF TRIPS (WEEKDAYS) BY HOUR:
+This visualization is a Heat-Map that shows the number of trips by hour for each weekday.  Surprisingly the hours between 5:00pm - 6:00pm on Thursday had the most ridership with over 43,000 rides calculated.
+
+### TRIPS BY GENDER (WEEKDAYS) BY HOUR
+This visualization is similar to the previous Heat-Map but adds the gender category to how and when ridership can vary between genders.
+
+### USER TRIPS BY GENDER & USER TYPE
+This Heat-Map breaks down variances between subscribers and customers by their gender for each day of the week.
+
+### STOPTIMES FOR AUGUST (* ORIGINAL VISUALIZATION *)
+This visualization shows number of bike stoptimes by hour for each user type: customers and subscribers.
+
+
 
 ## Summary
