@@ -20,24 +20,33 @@ Using various visualizations on Tableau worksheets, an analysis of the graphical
 
 ## Results of Each Visualization for CHALLENGE portion
 
-### CHECKOUT TIMES FOR USERS: 
+[CHECKOUT TIMES FOR USERS](https://public.tableau.com/views/CITIBIKEPROPOSALNYCtoDESMOINES/CITIBIKEPROPOSALFORDESMOINES?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 This line graph visualization shows the length of time that bikes are checked out for all riders.
 
-### CHECKOUT TIMES BY GENDER:
+[CHECKOUT TIMES BY GENDER](https://public.tableau.com/shared/FC3W4T3JK?:display_count=n&:origin=viz_share_link)
+
 This visualization is multi-line graph that shows the length of time bikes are checked out broken down by gender-type.
 
-### NUMBER OF TRIPS (WEEKDAYS) BY HOUR:
+[NUMBER OF TRIPS (WEEKDAYS) BY HOUR](https://public.tableau.com/shared/WSH4M6HFY?:display_count=n&:origin=viz_share_link)
+
 This visualization is a Heat-Map that shows the number of trips by hour for each weekday.  Surprisingly the hours between 5:00pm - 6:00pm on Thursday had the most ridership with over 43,000 rides calculated.
 
-### TRIPS BY GENDER (WEEKDAYS) BY HOUR
+[TRIPS BY GENDER (WEEKDAYS) BY HOUR](https://public.tableau.com/shared/ZTXWXTHGT?:display_count=n&:origin=viz_share_link)
+
 This visualization is similar to the previous Heat-Map but adds the gender category to how and when ridership can vary between genders.
 
-### USER TRIPS BY GENDER & USER TYPE
+[USER TRIPS BY GENDER & USER TYPE](https://public.tableau.com/shared/3QFWC2D8J?:display_count=n&:origin=viz_share_link)
+
 This Heat-Map breaks down variances between subscribers and customers by their gender for each day of the week.
 
-### STOPTIMES FOR AUGUST (* ORIGINAL VISUALIZATION *)
+[STOPTIMES FOR AUGUST - ORIGINAL VISUALIZATION](https://public.tableau.com/shared/69RSZNR35?:display_count=n&:origin=viz_share_link)
+
 This visualization shows number of bike stoptimes by hour for each user type: customers and subscribers.
 
+[BIKE MAINTENANCE TREEMAP (FROM MODULE)](https://public.tableau.com/shared/ZWZN72NR3?:display_count=n&:origin=viz_share_link)
+
+This TREEMAP shows the bike utilization for each bike organized by BIKE ID.
 
 
 ## Summary
