@@ -13,10 +13,10 @@ Using various visualizations on Tableau worksheets, an analysis of the graphical
 * The peak hours of use were between 7:00AM - 10:00AM; bikeshare use gradually rose from 12 Noon onwards peaking again between 5:00PM - 7:00PM.  This mirrors typical commuter morning and evening "rush" hours including a busy "lunchtime".
 * The "AVERAGE TRIP DURATION" Fill Chart was a bit puzzling.  The showed that most riders with an average age in their early to mid-30-YEAR old range used the bike sharing program the most, however there was an unusual peak with riders that were born between 1890-1893.  That would make the riders in this peak age range roughly 110-113 years old.  Further analysis may need to be done to determine why this peak is higher that all the rest.
 
-![MOD 14 DASHBOARD NYC CITI BIKE](https://user-images.githubusercontent.com/99851509/174454477-58ae70a1-7b00-4fdf-8f91-730ffbbca30b.png)
+https://public.tableau.com/app/profile/takemi.oshiro/viz/MOD14DASHBOARDNYCCITIBIKE/NYCCITIBIKE
 
-## Results of Each Visualization
-https://public.tableau.com/app/profile/takemi.oshiro/viz/CITIBIKEPROPOSALNYCtoDESMOINES/CITIBIKEPROPOSALFORDESMOINES
+## Results of Each Visualization for CHALLENGE portion
+
 ### CHECKOUT TIMES FOR USERS: 
 This line graph visualization shows the length of time that bikes are checked out for all riders.
 
@@ -38,3 +38,5 @@ This visualization shows number of bike stoptimes by hour for each user type: cu
 
 
 ## Summary
+
+https://public.tableau.com/app/profile/takemi.oshiro/viz/CITIBIKEPROPOSALNYCtoDESMOINES/CITIBIKEPROPOSALFORDESMOINES
