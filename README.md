@@ -12,8 +12,10 @@ Using various visualizations on Tableau worksheets, an analysis of the graphical
 * Of the above total: 588,431, were FEMALE; 1,530,272 were MALE; and 225,521 were "unknown"
 * The peak hours of use were between 7:00AM - 10:00AM; bikeshare use gradually rose from 12 Noon onwards peaking again between 5:00PM - 7:00PM.  This mirrors typical commuter morning and evening "rush" hours including a busy "lunchtime".
 * The "AVERAGE TRIP DURATION" Fill Chart was a bit puzzling.  The showed that most riders with an average age in their early to mid-30-YEAR old range used the bike sharing program the most, however there was an unusual peak with riders that were born between 1890-1893.  That would make the riders in this peak age range roughly 110-113 years old.  Further analysis may need to be done to determine why this peak is higher that all the rest.
+* The BIKE REPAIRS is a TREEMAP visualization and shows bike useage per Bike ID and clearly shows which bikes are used/shared the most (on the top left) ranging to the least used (on the bottom right).
+* The BIKE UTILIZATION visualization uses a PACKED BUBBLE display.  I found this visualiztion pleasing but ultimately too random to be of any logistical use, especially for a business proposal.
 
-[CITIBIKE MODULE VISUALIZATIONS](https://public.tableau.com/app/profile/takemi.oshiro/viz/MOD14DASHBOARDNYCCITIBIKE/NYCCITIBIKE)
+[CITIBIKE MODULE VISUALIZATIONS](https://public.tableau.com/views/MOD14DASHBOARDNYCCITIBIKE/MOD14CITIBIKEDESMOINESPROPOSAL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Results of Each Visualization for CHALLENGE portion
 
